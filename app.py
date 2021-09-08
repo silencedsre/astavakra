@@ -158,5 +158,5 @@ def paginate():
 
 
 if __name__ == "__main__":
-    st.title("Astavakra Mahageeta")
+    st.title("Astavakra Mahageeta by Osho")
     paginate()
